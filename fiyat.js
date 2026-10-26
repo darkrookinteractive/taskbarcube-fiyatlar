@@ -26,7 +26,13 @@ function ciftleriBul(dugum, cikti) {
   if (!dugum || typeof dugum !== "object") return;
   const ad = dugum.market_hash_name || dugum.hash_name || dugum.market_name || dugum.name;
   let fiyat = null;
-  if (typeof dugum.sell_price_text === "string") fiyat = dugum.sell_price_text;
+  // GetMarketPrices bicimi: result.groups[{ name, sell_listings, currencies:[{ ECurrencyCode, currency:"USD", sell_price (sent) }] }]
+  if (Array.isArray(dugum.currencies) && (dugum.sell_listings === undefined || dugum.sell_listings > 0)) {
+    const usd = dugum.currencies.find(c => c && (c.ECurrencyCode === 1 || c.currency === "USD"));
+    if (usd && typeof usd.sell_price === "number" && usd.sell_price > 0) fiyat = dolar(usd.sell_price);
+  }
+  if (fiyat) { /* para birimi listesinden bulundu */ }
+  else if (typeof dugum.sell_price_text === "string") fiyat = dugum.sell_price_text;
   else if (typeof dugum.lowest_price === "string") fiyat = dugum.lowest_price;
   else for (const k of ["sell_price", "lowest_price", "lowest_price_cents", "min_price", "price"])
     if (typeof dugum[k] === "number" && dugum[k] > 0) { fiyat = dolar(dugum[k]); break; }
