@@ -20,14 +20,16 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
       - name: Fiyatlari cek
+        env:
+          STEAM_PUBLISHER_KEY: ${{ secrets.STEAM_PUBLISHER_KEY }}
         run: node fiyat.js
       - name: Degistiyse kaydet
         run: |
           git config user.name "fiyat-botu"
           git config user.email "fiyat-botu@users.noreply.github.com"
-          git add fiyatlar.json
+          for f in fiyatlar.json ham_api.json; do [ -f "$f" ] && git add "$f"; done
           if git diff --cached --quiet; then
             echo "degisiklik yok"
           else
