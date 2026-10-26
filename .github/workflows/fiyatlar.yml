@@ -1,0 +1,36 @@
+name: Steam Pazari fiyatlari
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fiyatlar
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fiyatlari cek
+        run: node fiyat.js
+      - name: Degistiyse kaydet
+        run: |
+          git config user.name "fiyat-botu"
+          git config user.email "fiyat-botu@users.noreply.github.com"
+          git add fiyatlar.json
+          if git diff --cached --quiet; then
+            echo "degisiklik yok"
+          else
+            git commit -m "Fiyatlar guncellendi"
+            git push
+          fi
