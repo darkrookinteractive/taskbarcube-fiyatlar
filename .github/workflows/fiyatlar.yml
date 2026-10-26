@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+  push:                     # fiyat programi / is akisi degisince hemen calisir (bot kaydi fiyatlar.json tetiklemez)
+    paths:
+      - "fiyat.js"
+      - ".github/workflows/fiyatlar.yml"
 
 permissions:
   contents: write
