@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-31T19:28:28.829Z",
+ "guncelleme": "2026-10-31T22:46:03.177Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -73,7 +73,7 @@
   },
   {
    "ad": "Blazing Sword 65%",
-   "fiyat": "$0.60"
+   "fiyat": "$0.18"
   },
   {
    "ad": "Celestial Boots 85%",
@@ -85,7 +85,7 @@
   },
   {
    "ad": "Celestial Gloves 85%",
-   "fiyat": "$5.07"
+   "fiyat": "$1.00"
   },
   {
    "ad": "Celestial Necklace 85%",
@@ -113,7 +113,7 @@
   },
   {
    "ad": "Chest Lv.4",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Chest Lv.5",
@@ -229,7 +229,7 @@
   },
   {
    "ad": "Eternal Sword 95%",
-   "fiyat": "$7.60"
+   "fiyat": "$7.33"
   },
   {
    "ad": "Golden Boots 30%",
@@ -416,6 +416,10 @@
    "fiyat": "$14.15"
   },
   {
+   "ad": "Seraphic Helmet 90%",
+   "fiyat": "$2.27"
+  },
+  {
    "ad": "Shadow Boots 50%",
    "fiyat": "$0.05"
   },
@@ -449,7 +453,7 @@
   },
   {
    "ad": "Shadow Sword 50%",
-   "fiyat": "$0.08"
+   "fiyat": "$0.07"
   },
   {
    "ad": "Starforged Boots 55%",
@@ -485,7 +489,7 @@
   },
   {
    "ad": "Starforged Sword 55%",
-   "fiyat": "$0.12"
+   "fiyat": "$0.11"
   },
   {
    "ad": "Stormborn Boots 75%",
@@ -513,7 +517,7 @@
   },
   {
    "ad": "Stormborn Ring 75%",
-   "fiyat": "$1.89"
+   "fiyat": "$0.88"
   },
   {
    "ad": "Stormborn Sword 75%",
@@ -585,7 +589,7 @@
   },
   {
    "ad": "Titan Sword 70%",
-   "fiyat": "$1.12"
+   "fiyat": "$1.11"
   },
   {
    "ad": "Worn Boots 10%",
