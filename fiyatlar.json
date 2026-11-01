@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-31T22:46:03.177Z",
+ "guncelleme": "2026-11-01T01:57:15.849Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -45,7 +45,7 @@
   },
   {
    "ad": "Blazing Bracelet 65%",
-   "fiyat": "$0.48"
+   "fiyat": "$0.21"
   },
   {
    "ad": "Blazing Chestplate 65%",
@@ -53,7 +53,7 @@
   },
   {
    "ad": "Blazing Gloves 65%",
-   "fiyat": "$0.31"
+   "fiyat": "$0.18"
   },
   {
    "ad": "Blazing Helmet 65%",
@@ -65,7 +65,7 @@
   },
   {
    "ad": "Blazing Pants 65%",
-   "fiyat": "$0.16"
+   "fiyat": "$0.11"
   },
   {
    "ad": "Blazing Ring 65%",
@@ -113,11 +113,11 @@
   },
   {
    "ad": "Chest Lv.4",
-   "fiyat": "$0.04"
+   "fiyat": "$0.03"
   },
   {
    "ad": "Chest Lv.5",
-   "fiyat": "$0.08"
+   "fiyat": "$0.07"
   },
   {
    "ad": "Cobalt Boots 25%",
@@ -192,6 +192,10 @@
    "fiyat": "$0.04"
   },
   {
+   "ad": "Divine Helmet 100%",
+   "fiyat": "$5.37"
+  },
+  {
    "ad": "Divine Sword 100%",
    "fiyat": "$44.06"
   },
@@ -201,7 +205,7 @@
   },
   {
    "ad": "Dragonforged Gloves 80%",
-   "fiyat": "$4.43"
+   "fiyat": "$1.74"
   },
   {
    "ad": "Dragonforged Helmet 80%",
@@ -461,7 +465,7 @@
   },
   {
    "ad": "Starforged Bracelet 55%",
-   "fiyat": "$0.15"
+   "fiyat": "$0.12"
   },
   {
    "ad": "Starforged Chestplate 55%",
@@ -565,7 +569,7 @@
   },
   {
    "ad": "Titan Chestplate 70%",
-   "fiyat": "$0.35"
+   "fiyat": "$0.15"
   },
   {
    "ad": "Titan Gloves 70%",
@@ -577,7 +581,7 @@
   },
   {
    "ad": "Titan Necklace 70%",
-   "fiyat": "$1.77"
+   "fiyat": "$0.31"
   },
   {
    "ad": "Titan Pants 70%",
