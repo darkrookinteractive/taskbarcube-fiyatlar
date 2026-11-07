@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-07T11:53:06.054Z",
+ "guncelleme": "2026-11-07T17:34:15.313Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -13,7 +13,7 @@
   },
   {
    "ad": "Arcane Chestplate 60%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Arcane Gloves 60%",
@@ -45,7 +45,7 @@
   },
   {
    "ad": "Blazing Bracelet 65%",
-   "fiyat": "$0.11"
+   "fiyat": "$0.10"
   },
   {
    "ad": "Blazing Chestplate 65%",
@@ -73,7 +73,7 @@
   },
   {
    "ad": "Blazing Sword 65%",
-   "fiyat": "$0.11"
+   "fiyat": "$0.13"
   },
   {
    "ad": "Celestial Boots 85%",
@@ -325,7 +325,7 @@
   },
   {
    "ad": "Mystic Necklace 45%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.03"
   },
   {
    "ad": "Mystic Pants 45%",
@@ -493,7 +493,7 @@
   },
   {
    "ad": "Shadow Necklace 50%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.03"
   },
   {
    "ad": "Shadow Pants 50%",
@@ -561,11 +561,11 @@
   },
   {
    "ad": "Stormborn Helmet 75%",
-   "fiyat": "$0.16"
+   "fiyat": "$0.73"
   },
   {
    "ad": "Stormborn Necklace 75%",
-   "fiyat": "$0.28"
+   "fiyat": "$0.27"
   },
   {
    "ad": "Stormborn Pants 75%",
@@ -637,7 +637,7 @@
   },
   {
    "ad": "Titan Necklace 70%",
-   "fiyat": "$0.20"
+   "fiyat": "$0.19"
   },
   {
    "ad": "Titan Pants 70%",
