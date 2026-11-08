@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-08T07:47:12.998Z",
+ "guncelleme": "2026-11-08T14:50:54.173Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -13,7 +13,7 @@
   },
   {
    "ad": "Arcane Chestplate 60%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.03"
   },
   {
    "ad": "Arcane Gloves 60%",
@@ -37,11 +37,11 @@
   },
   {
    "ad": "Arcane Sword 60%",
-   "fiyat": "$0.09"
+   "fiyat": "$0.08"
   },
   {
    "ad": "Blazing Boots 65%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Blazing Bracelet 65%",
@@ -53,7 +53,7 @@
   },
   {
    "ad": "Blazing Gloves 65%",
-   "fiyat": "$0.12"
+   "fiyat": "$0.09"
   },
   {
    "ad": "Blazing Helmet 65%",
@@ -73,7 +73,7 @@
   },
   {
    "ad": "Blazing Sword 65%",
-   "fiyat": "$0.11"
+   "fiyat": "$0.09"
   },
   {
    "ad": "Celestial Boots 85%",
@@ -93,7 +93,7 @@
   },
   {
    "ad": "Celestial Necklace 85%",
-   "fiyat": "$3.14"
+   "fiyat": "$0.47"
   },
   {
    "ad": "Celestial Pants 85%",
@@ -105,7 +105,7 @@
   },
   {
    "ad": "Celestial Sword 85%",
-   "fiyat": "$2.64"
+   "fiyat": "$0.47"
   },
   {
    "ad": "Chest Lv.1",
@@ -237,7 +237,7 @@
   },
   {
    "ad": "Dragonforged Gloves 80%",
-   "fiyat": "$0.32"
+   "fiyat": "$0.31"
   },
   {
    "ad": "Dragonforged Helmet 80%",
@@ -457,7 +457,7 @@
   },
   {
    "ad": "Seraphic Gloves 90%",
-   "fiyat": "$2.68"
+   "fiyat": "$2.61"
   },
   {
    "ad": "Seraphic Helmet 90%",
@@ -493,7 +493,7 @@
   },
   {
    "ad": "Shadow Necklace 50%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.03"
   },
   {
    "ad": "Shadow Pants 50%",
@@ -529,15 +529,15 @@
   },
   {
    "ad": "Starforged Necklace 55%",
-   "fiyat": "$0.09"
+   "fiyat": "$0.08"
   },
   {
    "ad": "Starforged Pants 55%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Starforged Ring 55%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Starforged Sword 55%",
@@ -573,7 +573,7 @@
   },
   {
    "ad": "Stormborn Ring 75%",
-   "fiyat": "$0.18"
+   "fiyat": "$0.17"
   },
   {
    "ad": "Stormborn Sword 75%",
