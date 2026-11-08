@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-07T21:34:29.966Z",
+ "guncelleme": "2026-11-08T01:10:19.982Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -85,7 +85,7 @@
   },
   {
    "ad": "Celestial Chestplate 85%",
-   "fiyat": "$2.27"
+   "fiyat": "$2.26"
   },
   {
    "ad": "Celestial Gloves 85%",
@@ -205,7 +205,7 @@
   },
   {
    "ad": "Divine Gloves 100%",
-   "fiyat": "$11.42"
+   "fiyat": "$11.00"
   },
   {
    "ad": "Divine Helmet 100%",
@@ -213,7 +213,7 @@
   },
   {
    "ad": "Divine Necklace 100%",
-   "fiyat": "$232.58"
+   "fiyat": "$145.37"
   },
   {
    "ad": "Divine Ring 100%",
@@ -565,7 +565,7 @@
   },
   {
    "ad": "Stormborn Necklace 75%",
-   "fiyat": "$0.27"
+   "fiyat": "$0.28"
   },
   {
    "ad": "Stormborn Pants 75%",
@@ -577,7 +577,7 @@
   },
   {
    "ad": "Stormborn Sword 75%",
-   "fiyat": "$0.38"
+   "fiyat": "$0.55"
   },
   {
    "ad": "Sturdy Boots 15%",
