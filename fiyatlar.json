@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-08T23:01:40.032Z",
+ "guncelleme": "2026-11-09T02:54:10.249Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -33,7 +33,7 @@
   },
   {
    "ad": "Arcane Ring 60%",
-   "fiyat": "$0.08"
+   "fiyat": "$0.06"
   },
   {
    "ad": "Arcane Sword 60%",
@@ -41,7 +41,7 @@
   },
   {
    "ad": "Blazing Boots 65%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.03"
   },
   {
    "ad": "Blazing Bracelet 65%",
@@ -53,7 +53,7 @@
   },
   {
    "ad": "Blazing Gloves 65%",
-   "fiyat": "$0.09"
+   "fiyat": "$0.07"
   },
   {
    "ad": "Blazing Helmet 65%",
@@ -61,7 +61,7 @@
   },
   {
    "ad": "Blazing Necklace 65%",
-   "fiyat": "$0.08"
+   "fiyat": "$0.06"
   },
   {
    "ad": "Blazing Pants 65%",
@@ -225,23 +225,23 @@
   },
   {
    "ad": "Dragonforged Boots 80%",
-   "fiyat": "$0.32"
+   "fiyat": "$0.27"
   },
   {
    "ad": "Dragonforged Bracelet 80%",
-   "fiyat": "$0.32"
+   "fiyat": "$0.27"
   },
   {
    "ad": "Dragonforged Chestplate 80%",
-   "fiyat": "$0.24"
+   "fiyat": "$0.20"
   },
   {
    "ad": "Dragonforged Gloves 80%",
-   "fiyat": "$0.31"
+   "fiyat": "$0.26"
   },
   {
    "ad": "Dragonforged Helmet 80%",
-   "fiyat": "$0.32"
+   "fiyat": "$0.27"
   },
   {
    "ad": "Dragonforged Necklace 80%",
@@ -249,7 +249,7 @@
   },
   {
    "ad": "Dragonforged Pants 80%",
-   "fiyat": "$0.18"
+   "fiyat": "$0.15"
   },
   {
    "ad": "Dragonforged Ring 80%",
@@ -269,7 +269,7 @@
   },
   {
    "ad": "Eternal Ring 95%",
-   "fiyat": "$5.72"
+   "fiyat": "$5.71"
   },
   {
    "ad": "Eternal Sword 95%",
@@ -485,7 +485,7 @@
   },
   {
    "ad": "Seraphic Sword 90%",
-   "fiyat": "$2.04"
+   "fiyat": "$1.73"
   },
   {
    "ad": "Shadow Boots 50%",
@@ -529,7 +529,7 @@
   },
   {
    "ad": "Starforged Bracelet 55%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Starforged Chestplate 55%",
