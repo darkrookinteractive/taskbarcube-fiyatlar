@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-11T15:55:34.724Z",
+ "guncelleme": "2026-11-11T22:32:42.102Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -456,32 +456,36 @@
    "fiyat": "$0.03"
   },
   {
+   "ad": "Seraphic Boots 90%",
+   "fiyat": "$13.73"
+  },
+  {
    "ad": "Seraphic Bracelet 90%",
    "fiyat": "$14.16"
   },
   {
    "ad": "Seraphic Chestplate 90%",
-   "fiyat": "$0.82"
+   "fiyat": "$0.77"
   },
   {
    "ad": "Seraphic Gloves 90%",
-   "fiyat": "$0.82"
+   "fiyat": "$0.77"
   },
   {
    "ad": "Seraphic Helmet 90%",
-   "fiyat": "$0.82"
+   "fiyat": "$0.77"
   },
   {
    "ad": "Seraphic Necklace 90%",
-   "fiyat": "$0.82"
+   "fiyat": "$0.77"
   },
   {
    "ad": "Seraphic Pants 90%",
-   "fiyat": "$0.82"
+   "fiyat": "$0.77"
   },
   {
    "ad": "Seraphic Sword 90%",
-   "fiyat": "$0.82"
+   "fiyat": "$0.77"
   },
   {
    "ad": "Shadow Boots 50%",
@@ -629,7 +633,7 @@
   },
   {
    "ad": "Titan Boots 70%",
-   "fiyat": "$0.06"
+   "fiyat": "$0.05"
   },
   {
    "ad": "Titan Bracelet 70%",
