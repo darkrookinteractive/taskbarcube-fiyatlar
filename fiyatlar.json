@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-13T08:33:58.664Z",
+ "guncelleme": "2026-11-13T16:59:59.432Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -65,7 +65,7 @@
   },
   {
    "ad": "Blazing Pants 65%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Blazing Ring 65%",
@@ -89,7 +89,7 @@
   },
   {
    "ad": "Celestial Gloves 85%",
-   "fiyat": "$4.27"
+   "fiyat": "$2.67"
   },
   {
    "ad": "Celestial Necklace 85%",
@@ -97,7 +97,7 @@
   },
   {
    "ad": "Celestial Pants 85%",
-   "fiyat": "$0.36"
+   "fiyat": "$0.32"
   },
   {
    "ad": "Celestial Ring 85%",
@@ -209,11 +209,11 @@
   },
   {
    "ad": "Divine Gloves 100%",
-   "fiyat": "$1.87"
+   "fiyat": "$1.58"
   },
   {
    "ad": "Divine Helmet 100%",
-   "fiyat": "$2.45"
+   "fiyat": "$2.08"
   },
   {
    "ad": "Divine Necklace 100%",
@@ -225,7 +225,7 @@
   },
   {
    "ad": "Divine Ring 100%",
-   "fiyat": "$14.35"
+   "fiyat": "$4.87"
   },
   {
    "ad": "Divine Sword 100%",
@@ -253,7 +253,7 @@
   },
   {
    "ad": "Dragonforged Necklace 80%",
-   "fiyat": "$0.21"
+   "fiyat": "$0.18"
   },
   {
    "ad": "Dragonforged Pants 80%",
@@ -265,7 +265,7 @@
   },
   {
    "ad": "Dragonforged Sword 80%",
-   "fiyat": "$0.87"
+   "fiyat": "$0.85"
   },
   {
    "ad": "Eternal Bracelet 95%",
@@ -273,7 +273,7 @@
   },
   {
    "ad": "Eternal Chestplate 95%",
-   "fiyat": "$2.65"
+   "fiyat": "$2.25"
   },
   {
    "ad": "Eternal Gloves 95%",
@@ -289,7 +289,7 @@
   },
   {
    "ad": "Eternal Ring 95%",
-   "fiyat": "$2.25"
+   "fiyat": "$1.91"
   },
   {
    "ad": "Eternal Sword 95%",
@@ -485,11 +485,11 @@
   },
   {
    "ad": "Seraphic Chestplate 90%",
-   "fiyat": "$0.57"
+   "fiyat": "$0.50"
   },
   {
    "ad": "Seraphic Gloves 90%",
-   "fiyat": "$0.55"
+   "fiyat": "$0.50"
   },
   {
    "ad": "Seraphic Helmet 90%",
@@ -501,7 +501,7 @@
   },
   {
    "ad": "Seraphic Pants 90%",
-   "fiyat": "$0.57"
+   "fiyat": "$0.50"
   },
   {
    "ad": "Shadow Boots 50%",
@@ -653,23 +653,23 @@
   },
   {
    "ad": "Titan Bracelet 70%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.03"
   },
   {
    "ad": "Titan Chestplate 70%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Titan Gloves 70%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Titan Helmet 70%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Titan Necklace 70%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Titan Pants 70%",
@@ -677,7 +677,7 @@
   },
   {
    "ad": "Titan Ring 70%",
-   "fiyat": "$0.06"
+   "fiyat": "$0.05"
   },
   {
    "ad": "Titan Sword 70%",
