@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-13T01:22:03.984Z",
+ "guncelleme": "2026-11-13T08:33:58.664Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -9,7 +9,7 @@
   },
   {
    "ad": "Arcane Bracelet 60%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Arcane Chestplate 60%",
@@ -49,7 +49,7 @@
   },
   {
    "ad": "Blazing Chestplate 65%",
-   "fiyat": "$0.06"
+   "fiyat": "$0.05"
   },
   {
    "ad": "Blazing Gloves 65%",
@@ -81,7 +81,7 @@
   },
   {
    "ad": "Celestial Bracelet 85%",
-   "fiyat": "$0.36"
+   "fiyat": "$1.00"
   },
   {
    "ad": "Celestial Chestplate 85%",
@@ -89,19 +89,19 @@
   },
   {
    "ad": "Celestial Gloves 85%",
-   "fiyat": "$0.18"
+   "fiyat": "$4.27"
   },
   {
    "ad": "Celestial Necklace 85%",
-   "fiyat": "$0.16"
+   "fiyat": "$0.23"
   },
   {
    "ad": "Celestial Pants 85%",
-   "fiyat": "$0.20"
+   "fiyat": "$0.36"
   },
   {
    "ad": "Celestial Ring 85%",
-   "fiyat": "$0.87"
+   "fiyat": "$1.38"
   },
   {
    "ad": "Celestial Sword 85%",
@@ -201,7 +201,7 @@
   },
   {
    "ad": "Divine Bracelet 100%",
-   "fiyat": "$0.58"
+   "fiyat": "$7.59"
   },
   {
    "ad": "Divine Chestplate 100%",
@@ -261,7 +261,7 @@
   },
   {
    "ad": "Dragonforged Ring 80%",
-   "fiyat": "$0.11"
+   "fiyat": "$0.15"
   },
   {
    "ad": "Dragonforged Sword 80%",
@@ -269,7 +269,7 @@
   },
   {
    "ad": "Eternal Bracelet 95%",
-   "fiyat": "$2.65"
+   "fiyat": "$2.25"
   },
   {
    "ad": "Eternal Chestplate 95%",
@@ -286,10 +286,6 @@
   {
    "ad": "Eternal Necklace 95%",
    "fiyat": "$4.42"
-  },
-  {
-   "ad": "Eternal Pants 95%",
-   "fiyat": "$0.75"
   },
   {
    "ad": "Eternal Ring 95%",
@@ -497,11 +493,11 @@
   },
   {
    "ad": "Seraphic Helmet 90%",
-   "fiyat": "$0.25"
+   "fiyat": "$0.65"
   },
   {
    "ad": "Seraphic Necklace 90%",
-   "fiyat": "$0.62"
+   "fiyat": "$0.52"
   },
   {
    "ad": "Seraphic Pants 90%",
@@ -653,7 +649,7 @@
   },
   {
    "ad": "Titan Boots 70%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.03"
   },
   {
    "ad": "Titan Bracelet 70%",
