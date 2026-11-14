@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-13T22:30:46.808Z",
+ "guncelleme": "2026-11-14T02:56:04.656Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -233,7 +233,7 @@
   },
   {
    "ad": "Dragonforged Boots 80%",
-   "fiyat": "$0.13"
+   "fiyat": "$0.12"
   },
   {
    "ad": "Dragonforged Bracelet 80%",
@@ -253,7 +253,7 @@
   },
   {
    "ad": "Dragonforged Necklace 80%",
-   "fiyat": "$0.18"
+   "fiyat": "$0.13"
   },
   {
    "ad": "Dragonforged Pants 80%",
@@ -581,7 +581,7 @@
   },
   {
    "ad": "Stormborn Bracelet 75%",
-   "fiyat": "$0.24"
+   "fiyat": "$0.20"
   },
   {
    "ad": "Stormborn Chestplate 75%",
@@ -653,7 +653,7 @@
   },
   {
    "ad": "Titan Bracelet 70%",
-   "fiyat": "$0.03"
+   "fiyat": "$0.13"
   },
   {
    "ad": "Titan Chestplate 70%",
