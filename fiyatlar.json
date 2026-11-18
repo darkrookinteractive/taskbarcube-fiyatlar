@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-18T10:31:43.501Z",
+ "guncelleme": "2026-11-18T19:16:07.933Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -73,7 +73,7 @@
   },
   {
    "ad": "Blazing Sword 65%",
-   "fiyat": "$0.07"
+   "fiyat": "$0.06"
   },
   {
    "ad": "Celestial Boots 85%",
@@ -289,15 +289,19 @@
   },
   {
    "ad": "Eternal Gloves 95%",
-   "fiyat": "$0.70"
+   "fiyat": "$0.69"
   },
   {
    "ad": "Eternal Helmet 95%",
-   "fiyat": "$0.99"
+   "fiyat": "$0.75"
   },
   {
    "ad": "Eternal Necklace 95%",
    "fiyat": "$0.52"
+  },
+  {
+   "ad": "Eternal Pants 95%",
+   "fiyat": "$0.75"
   },
   {
    "ad": "Eternal Ring 95%",
@@ -305,7 +309,7 @@
   },
   {
    "ad": "Eternal Sword 95%",
-   "fiyat": "$0.41"
+   "fiyat": "$0.39"
   },
   {
    "ad": "Golden Boots 30%",
@@ -493,7 +497,7 @@
   },
   {
    "ad": "Seraphic Bracelet 90%",
-   "fiyat": "$0.52"
+   "fiyat": "$0.50"
   },
   {
    "ad": "Seraphic Chestplate 90%",
@@ -517,7 +521,7 @@
   },
   {
    "ad": "Seraphic Ring 90%",
-   "fiyat": "$0.58"
+   "fiyat": "$0.50"
   },
   {
    "ad": "Seraphic Sword 90%",
@@ -573,7 +577,7 @@
   },
   {
    "ad": "Starforged Gloves 55%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Starforged Helmet 55%",
@@ -581,7 +585,7 @@
   },
   {
    "ad": "Starforged Necklace 55%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Starforged Pants 55%",
@@ -621,7 +625,7 @@
   },
   {
    "ad": "Stormborn Pants 75%",
-   "fiyat": "$0.11"
+   "fiyat": "$0.06"
   },
   {
    "ad": "Stormborn Ring 75%",
