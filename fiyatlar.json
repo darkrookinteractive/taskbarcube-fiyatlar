@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-17T19:39:43.477Z",
+ "guncelleme": "2026-11-18T02:12:29.831Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -77,11 +77,11 @@
   },
   {
    "ad": "Celestial Boots 85%",
-   "fiyat": "$0.24"
+   "fiyat": "$12.50"
   },
   {
    "ad": "Celestial Bracelet 85%",
-   "fiyat": "$0.21"
+   "fiyat": "$0.09"
   },
   {
    "ad": "Celestial Chestplate 85%",
@@ -101,11 +101,11 @@
   },
   {
    "ad": "Celestial Pants 85%",
-   "fiyat": "$0.20"
+   "fiyat": "$0.17"
   },
   {
    "ad": "Celestial Ring 85%",
-   "fiyat": "$0.24"
+   "fiyat": "$0.21"
   },
   {
    "ad": "Celestial Sword 85%",
@@ -289,7 +289,7 @@
   },
   {
    "ad": "Eternal Gloves 95%",
-   "fiyat": "$1.73"
+   "fiyat": "$1.55"
   },
   {
    "ad": "Eternal Helmet 95%",
@@ -309,7 +309,7 @@
   },
   {
    "ad": "Eternal Sword 95%",
-   "fiyat": "$0.76"
+   "fiyat": "$0.70"
   },
   {
    "ad": "Golden Boots 30%",
@@ -497,7 +497,7 @@
   },
   {
    "ad": "Seraphic Bracelet 90%",
-   "fiyat": "$1.04"
+   "fiyat": "$0.66"
   },
   {
    "ad": "Seraphic Chestplate 90%",
@@ -533,7 +533,7 @@
   },
   {
    "ad": "Shadow Bracelet 50%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Shadow Chestplate 50%",
@@ -633,7 +633,7 @@
   },
   {
    "ad": "Stormborn Sword 75%",
-   "fiyat": "$0.31"
+   "fiyat": "$0.26"
   },
   {
    "ad": "Sturdy Boots 15%",
