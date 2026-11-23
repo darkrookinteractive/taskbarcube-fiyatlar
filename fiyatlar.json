@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-22T22:22:06.267Z",
+ "guncelleme": "2026-11-23T02:58:22.561Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -522,6 +522,10 @@
   {
    "ad": "Seraphic Ring 90%",
    "fiyat": "$0.11"
+  },
+  {
+   "ad": "Seraphic Sword 90%",
+   "fiyat": "$0.25"
   },
   {
    "ad": "Shadow Boots 50%",
