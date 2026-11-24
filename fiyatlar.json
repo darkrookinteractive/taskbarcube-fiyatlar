@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-24T00:11:41.392Z",
+ "guncelleme": "2026-11-24T10:16:10.385Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -85,19 +85,19 @@
   },
   {
    "ad": "Celestial Chestplate 85%",
-   "fiyat": "$0.14"
+   "fiyat": "$0.13"
   },
   {
    "ad": "Celestial Gloves 85%",
-   "fiyat": "$0.09"
+   "fiyat": "$0.07"
   },
   {
    "ad": "Celestial Helmet 85%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.10"
   },
   {
    "ad": "Celestial Necklace 85%",
-   "fiyat": "$0.08"
+   "fiyat": "$0.11"
   },
   {
    "ad": "Celestial Pants 85%",
@@ -213,11 +213,11 @@
   },
   {
    "ad": "Divine Chestplate 100%",
-   "fiyat": "$0.38"
+   "fiyat": "$0.35"
   },
   {
    "ad": "Divine Gloves 100%",
-   "fiyat": "$0.34"
+   "fiyat": "$0.28"
   },
   {
    "ad": "Divine Helmet 100%",
@@ -229,7 +229,7 @@
   },
   {
    "ad": "Divine Pants 100%",
-   "fiyat": "$0.35"
+   "fiyat": "$0.31"
   },
   {
    "ad": "Divine Ring 100%",
@@ -281,19 +281,19 @@
   },
   {
    "ad": "Eternal Bracelet 95%",
-   "fiyat": "$0.26"
+   "fiyat": "$0.25"
   },
   {
    "ad": "Eternal Chestplate 95%",
-   "fiyat": "$0.30"
+   "fiyat": "$0.25"
   },
   {
    "ad": "Eternal Gloves 95%",
-   "fiyat": "$0.27"
+   "fiyat": "$0.25"
   },
   {
    "ad": "Eternal Helmet 95%",
-   "fiyat": "$0.30"
+   "fiyat": "$0.25"
   },
   {
    "ad": "Eternal Necklace 95%",
@@ -501,7 +501,7 @@
   },
   {
    "ad": "Seraphic Chestplate 90%",
-   "fiyat": "$0.11"
+   "fiyat": "$0.09"
   },
   {
    "ad": "Seraphic Gloves 90%",
@@ -509,11 +509,11 @@
   },
   {
    "ad": "Seraphic Helmet 90%",
-   "fiyat": "$0.09"
+   "fiyat": "$0.07"
   },
   {
    "ad": "Seraphic Necklace 90%",
-   "fiyat": "$0.11"
+   "fiyat": "$0.09"
   },
   {
    "ad": "Seraphic Pants 90%",
@@ -521,7 +521,7 @@
   },
   {
    "ad": "Seraphic Ring 90%",
-   "fiyat": "$0.25"
+   "fiyat": "$0.21"
   },
   {
    "ad": "Seraphic Sword 90%",
@@ -681,7 +681,7 @@
   },
   {
    "ad": "Titan Chestplate 70%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.12"
   },
   {
    "ad": "Titan Gloves 70%",
@@ -693,15 +693,15 @@
   },
   {
    "ad": "Titan Necklace 70%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.12"
   },
   {
    "ad": "Titan Pants 70%",
-   "fiyat": "$0.03"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Titan Ring 70%",
-   "fiyat": "$0.04"
+   "fiyat": "$0.13"
   },
   {
    "ad": "Titan Sword 70%",
