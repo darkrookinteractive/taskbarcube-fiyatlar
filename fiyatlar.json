@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-25T23:13:20.156Z",
+ "guncelleme": "2026-11-26T05:19:02.456Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -93,7 +93,7 @@
   },
   {
    "ad": "Celestial Helmet 85%",
-   "fiyat": "$0.07"
+   "fiyat": "$0.05"
   },
   {
    "ad": "Celestial Necklace 85%",
@@ -261,7 +261,7 @@
   },
   {
    "ad": "Dragonforged Pants 80%",
-   "fiyat": "$0.76"
+   "fiyat": "$0.10"
   },
   {
    "ad": "Dragonforged Ring 80%",
@@ -273,7 +273,7 @@
   },
   {
    "ad": "Eternal Boots 95%",
-   "fiyat": "$0.12"
+   "fiyat": "$0.11"
   },
   {
    "ad": "Eternal Bracelet 95%",
@@ -305,7 +305,7 @@
   },
   {
    "ad": "Eternal Sword 95%",
-   "fiyat": "$0.15"
+   "fiyat": "$0.14"
   },
   {
    "ad": "Golden Boots 30%",
