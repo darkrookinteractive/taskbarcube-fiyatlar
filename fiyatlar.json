@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-27T08:55:59.796Z",
+ "guncelleme": "2026-11-27T18:46:34.287Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -85,7 +85,7 @@
   },
   {
    "ad": "Celestial Chestplate 85%",
-   "fiyat": "$0.10"
+   "fiyat": "$0.13"
   },
   {
    "ad": "Celestial Gloves 85%",
@@ -213,7 +213,7 @@
   },
   {
    "ad": "Divine Chestplate 100%",
-   "fiyat": "$0.19"
+   "fiyat": "$5.71"
   },
   {
    "ad": "Divine Gloves 100%",
@@ -225,7 +225,7 @@
   },
   {
    "ad": "Divine Pants 100%",
-   "fiyat": "$0.28"
+   "fiyat": "$0.30"
   },
   {
    "ad": "Divine Ring 100%",
@@ -278,10 +278,6 @@
   {
    "ad": "Eternal Bracelet 95%",
    "fiyat": "$1.52"
-  },
-  {
-   "ad": "Eternal Chestplate 95%",
-   "fiyat": "$0.19"
   },
   {
    "ad": "Eternal Gloves 95%",
@@ -685,7 +681,7 @@
   },
   {
    "ad": "Titan Helmet 70%",
-   "fiyat": "$0.11"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Titan Necklace 70%",
