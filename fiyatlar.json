@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-28T01:47:35.848Z",
+ "guncelleme": "2026-11-28T09:54:35.927Z",
  "kaynak": "api",
  "tam": true,
  "esyalar": [
@@ -101,7 +101,7 @@
   },
   {
    "ad": "Celestial Pants 85%",
-   "fiyat": "$0.05"
+   "fiyat": "$0.04"
   },
   {
    "ad": "Celestial Ring 85%",
@@ -229,7 +229,7 @@
   },
   {
    "ad": "Divine Ring 100%",
-   "fiyat": "$0.30"
+   "fiyat": "$0.34"
   },
   {
    "ad": "Divine Sword 100%",
@@ -289,7 +289,7 @@
   },
   {
    "ad": "Eternal Helmet 95%",
-   "fiyat": "$0.19"
+   "fiyat": "$2.49"
   },
   {
    "ad": "Eternal Necklace 95%",
@@ -301,11 +301,11 @@
   },
   {
    "ad": "Eternal Ring 95%",
-   "fiyat": "$0.18"
+   "fiyat": "$0.15"
   },
   {
    "ad": "Eternal Sword 95%",
-   "fiyat": "$0.15"
+   "fiyat": "$0.14"
   },
   {
    "ad": "Golden Boots 30%",
@@ -621,7 +621,7 @@
   },
   {
    "ad": "Stormborn Pants 75%",
-   "fiyat": "$0.12"
+   "fiyat": "$0.11"
   },
   {
    "ad": "Stormborn Ring 75%",
